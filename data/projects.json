@@ -13,5 +13,21 @@
         { "situacao" : "Next" },
         { "situacao" : "development" }
       ]
+    },
+    {
+      "nome" : "Pokedex",
+      "situacao" : "development",
+      "data" : "2025",
+      "src" : "",
+      "slug" : "pokedex",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "",
+      "texto2" : "",
+      "condicoes" : [
+        { "situacao" : "HTML" },
+        { "situacao" : "development" }
+      ]
     }
+
 ]
