@@ -1,0 +1,17 @@
+[
+    {
+      "nome" : "Crypto Course",
+      "situacao" : "development",
+      "data" : "2024",
+      "src" : "",
+      "slug" : "crytpo-course",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "",
+      "texto2" : "",
+      "condicoes" : [
+        { "situacao" : "Next" },
+        { "situacao" : "development" }
+      ]
+    }
+]
