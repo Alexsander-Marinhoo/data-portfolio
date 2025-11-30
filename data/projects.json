@@ -3,31 +3,122 @@
       "nome" : "Crypto Course",
       "situacao" : "development",
       "data" : "2024",
-      "src" : "",
+      "src" : "/uncblockyourchain.png",
       "slug" : "crytpo-course",
       "urlGit" : "https://github.com/Alexsander-Marinhoo",
       "urlVideo" : "",
-      "texto1" : "",
-      "texto2" : "",
+      "texto1" : "Projeto desenvolvido para criar um site de cursos sobre criptomoedas, focando em uma interface limpa e responsiva usando Next.js e Tailwind CSS.",
+      "texto2" : "O objetivo foi demonstrar habilidades em desenvolvimento front-end, otimização de imagens e organização dinâmica de conteúdos.",
       "condicoes" : [
         { "situacao" : "Next" },
-        { "situacao" : "development" }
+        { "situacao" : "Development" }
       ]
     },
     {
       "nome" : "Pokedex",
       "situacao" : "development",
-      "data" : "2025",
-      "src" : "",
+      "data" : "2023",
+      "src" : "/pokedex.png",
       "slug" : "pokedex",
       "urlGit" : "https://github.com/Alexsander-Marinhoo",
       "urlVideo" : "",
-      "texto1" : "",
-      "texto2" : "",
+      "texto1" : "Este projeto representa uma fase importante do meu aprendizado em desenvolvimento web, onde pude praticar HTML, CSS e JavaScript na prática.",
+      "texto2" : "Cada ajuste e melhoria neste projeto me ajudou a entender melhor o código, ganhar confiança e evoluir como desenvolvedor em formação.",
       "condicoes" : [
         { "situacao" : "HTML" },
-        { "situacao" : "development" }
+        { "situacao" : "Development" }
       ]
-    }
+    },
+    {
+      "nome" : "Alzz...",
+      "situacao" : "design",
+      "data" : "2024",
+      "src" : "/alzz.png",
+      "slug" : "alzz",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "Este projeto é o design de uma loja de roupas inspirada no estilo minimalista da Zara, criado no Figma com foco em tipografia limpa, cores neutras e destaque para as peças na vitrine digital.",
+      "texto2" : "Ao desenvolver esse layout, o objetivo foi praticar UX/UI, organização de grids e criação de páginas de produto e catálogo, melhorando minha habilidade de planejar interfaces profissionais antes da etapa de desenvolvimento.",
+      "condicoes" : [
+        { "situacao" : "Figma" },
+        { "situacao" : "Design" }
+      ]
+    },
+    {
+      "nome" : "Dwell",
+      "situacao" : "development",
+      "data" : "2024",
+      "src" : "/dwell.png",
+      "slug" : "dwell",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "Este projeto é uma loja de móveis inspirada na MadeiraMadeira, desenvolvida em Vue com foco em uma interface limpa e voltada para a experiência de compra.",
+      "texto2" : "Usei componentes em Vue e listagem de produtos para simular um e-commerce real e praticar desenvolvimento front-end na prática.",
+      "condicoes" : [
+        { "situacao" : "Vue" },
+        { "situacao" : "Development" }
+      ]
+    },
+    {
+      "nome" : "ascendia",
+      "situacao" : "development",
+      "data" : "2024",
+      "src" : "/ascendia.png",
+      "slug" : "ascendia",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "Este projeto é um site de imobiliária com estilo moderno, desenvolvido em Next, focado em destacar imóveis com um visual limpo, tipografia clara e navegação objetiva.",
+      "texto2" : "Usei componentes em Next para organizar as páginas de listagem e detalhes de imóveis, praticando rotas, reaproveitamento de layout e uma experiência de usuário mais profissional.",
+      "condicoes" : [
+        { "situacao" : "Next" },
+        { "situacao" : "Development" }
+      ]
+    },
+    {
+      "nome" : "Fleet Pneus",
+      "situacao" : "development",
+      "data" : "2025",
+      "src" : "/fleetpneus.png",
+      "slug" : "fleet-pneus",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "Este projeto é um aplicativo moderno em React Native para controle de pneus de caminhão, pensado para empresas que precisam organizar a gestão da frota pelo celular.",
+      "texto2" : "Com ele, foquei em praticar React Native, navegação entre telas e cadastro de dados dos pneus, aproximando o app de um uso real no dia a dia das transportadoras.",
+      "condicoes" : [
+        { "situacao" : "React_Native" },
+        { "situacao" : "Development" }
+      ]
+    },
+    {
+      "nome" : "Naturenouris",
+      "situacao" : "development",
+      "data" : "2025",
+      "src" : "/naturenouris.png",
+      "slug" : "naturenouris",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : "Este projeto é um design de aplicativo de delivery para uma hortfrut, criado no Figma com estilo moderno, cores frescas e foco em facilitar o pedido de frutas e verduras pelo usuário.",
+      "texto2" : "O objetivo foi praticar UX/UI, usando grids, componentes e prototipagem no Figma para simular o fluxo completo de escolha dos produtos, carrinho e acompanhamento do pedido.",
+      "condicoes" : [
+        { "situacao" : "Figma" },
+        { "situacao" : "Design" }
+      ]
+    },
+    {
+      "nome" : "Sofisti Cao",
+      "situacao" : "development",
+      "data" : "2025",
+      "src" : "/sofisticao.png",
+      "slug" : "sofisticao",
+      "urlGit" : "https://github.com/Alexsander-Marinhoo",
+      "urlVideo" : "",
+      "texto1" : " Este projeto é um design de aplicativo de delivery para petshop, criado no Figma com estilo moderno, cores vibrantes e foco em facilitar pedidos de produtos para pets.",
+      "texto2" : "Trabalhei em telas de catálogo, carrinho e acompanhamento de pedidos para praticar UX/UI, componentes reutilizáveis e protótipos interativos dentro do Figma.",
+      "condicoes" : [
+        { "situacao" : "Figma" },
+        { "situacao" : "Design" }
+      ]
+    },
 
 ]
+
