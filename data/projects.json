@@ -60,7 +60,7 @@
       ]
     },
     {
-      "nome" : "ascendia",
+      "nome" : "Ascendia",
       "situacao" : "development",
       "data" : "2024",
       "src" : "/ascendia.png",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "nome" : "Sofisti Cao",
+      "nome" : "Sofisti Cão",
       "situacao" : "development",
       "data" : "2025",
       "src" : "/sofisticao.png",
@@ -121,4 +121,5 @@
     },
 
 ]
+
 
