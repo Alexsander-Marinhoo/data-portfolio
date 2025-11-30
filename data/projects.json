@@ -3,7 +3,7 @@
       "nome" : "Crypto Course",
       "situacao" : "development",
       "data" : "2024",
-      "src" : "/uncblockyourchain.png",
+      "src" : "/unblockyourchain.png",
       "slug" : "crytpo-course",
       "urlGit" : "https://github.com/Alexsander-Marinhoo",
       "urlVideo" : "",
@@ -120,3 +120,4 @@
       ]
     }
 ]
+
